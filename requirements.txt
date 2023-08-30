@@ -1,9 +1,9 @@
 langchain==0.0.274
-gpt4all==1.0.8
+gpt4all==0.2.3
 chromadb==0.4.7
 llama-cpp-python==0.1.81
 urllib3==2.0.4
-PyMuPDF==1.23.1
+PyMuPDF==1.23.2
 python-dotenv==1.0.0
 unstructured==0.10.8
 extract-msg==0.45.0
@@ -12,3 +12,7 @@ pandoc==2.3
 pypandoc==1.11
 tqdm==4.66.1
 sentence_transformers==2.2.2
+fitz==0.0.1.dev2
+docx==0.2.4
+markdown==3.4.4
+python-docx==0.8.11
